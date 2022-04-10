@@ -1,0 +1,6 @@
+.windSock {
+  filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(132deg)
+    brightness(105%) contrast(105%);
+}
+
+
